@@ -92,6 +92,7 @@ Content Cell  | Content Cell
 
     Markup : ```javascript
              ```
+### You need to leave one row space between two line if you want to creat a layer relationship.
 
 * Bullet list
     * Nested bullet
