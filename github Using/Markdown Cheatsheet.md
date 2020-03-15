@@ -93,6 +93,20 @@ Content Cell  | Content Cell
 
     Markup : ```javascript
              ```
+#### Add new row in paragraph: Just add a <br> before a sentence start.
+
+
+1.Final Product Overview will be like coding-interview-university
+<br> https://github.com/GlennOu66304/coding-interview-university
+
+~~~
+ Markup : 
+ 1.Final Product Overview will be like coding-interview-university
+<br> https://github.com/GlennOu66304/coding-interview-university
+
+~~~
+
+
 ### You need to leave one row space between two line if you want to creat a layer relationship.
 
 * Bullet list
@@ -214,3 +228,7 @@ Emoji:
 :exclamation: Use emoji icons to enhance text. :+1:  Look up emoji codes at [emoji-cheat-sheet.com](http://emoji-cheat-sheet.com/)
 
     Markup : Code appears between colons :EMOJICODE:
+
+### Markdown Learning resources:
+1.Learning-Markdown
+<br> http://xianbai.me/learn-md/index.html
