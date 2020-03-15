@@ -114,6 +114,8 @@ Content Cell  | Content Cell
           - Bullet list item 2 
 ~~~
 
+#### leave a word space between number and sentences, the child layer's number start from second row and first number align at first row's first digit of first word.
+
 1. A numbered list
     1. A nested numbered list
     2. Which is numbered
