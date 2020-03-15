@@ -93,8 +93,7 @@ Content Cell  | Content Cell
 
     Markup : ```javascript
              ```
-#### Add new row in paragraph: Just add a <br> before a sentence start.
-
+**Add new row in paragraph,Just add a br  with arrow < > symbol before a sentence start.**
 
 1.Final Product Overview will be like coding-interview-university
 <br> https://github.com/GlennOu66304/coding-interview-university
@@ -107,7 +106,7 @@ Content Cell  | Content Cell
 ~~~
 
 
-### You need to leave one row space between two line if you want to creat a layer relationship.
+**You need to leave one row space between two line if you want to creat a layer relationship.**
 
 * Bullet list
     * Nested bullet
@@ -128,7 +127,7 @@ Content Cell  | Content Cell
           - Bullet list item 2 
 ~~~
 
-#### leave a word space between number and sentences, the child layer's number start from second row and first number align at first row's first digit of first word.
+**leave a word space between number and sentences, the child layer's number start from second row and first number align at first row's first digit of first word.**
 
 1. A numbered list
     1. A nested numbered list
