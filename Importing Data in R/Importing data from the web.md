@@ -129,3 +129,11 @@ Is the release year of sw4 later than sw3?
 ```
 sw4$Year > sw3$Year 
 ```
+Import the .csv file located at url_csv
+```
+water <- read.csv(url_csv,stringsAsFactors = FALSE)
+```
+Convert the data file according to the requirements
+```
+water_json <- toJSON(water)
+```
