@@ -30,3 +30,15 @@ Print users
 ```
 users
 ```
+Get table names
+```
+table_names <- dbListTables(con)
+```
+Import all tables,The first argument in lapply() should be the table names. The second argument is the function you want to execute for each of these table names, so dbReadTable.
+```
+tables <- lapply(table_names, dbReadTable, conn = con)
+```
+Print out tables
+```
+str(tables)
+```
