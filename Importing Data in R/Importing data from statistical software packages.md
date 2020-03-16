@@ -97,3 +97,19 @@ Create boxplot of gdp variable of demo
 ```
 boxplot(demo$gdp)
 ```
+Import international.sav as demo_1,For demo_1, simply specify the path and the to.data.frame argument.
+```
+demo_1 <- read.spss("international.sav", to.data.frame = TRUE)
+```
+Print out the head of demo_1
+```
+head(demo_1)
+```
+Import international.sav as demo_2,use the same function call as for demo_1, but this time add the argument use.value.labels, which you set to FALSE.
+```
+demo_2 <- read.spss("international.sav", to.data.frame = TRUE, use.value.labels = FALSE)
+```
+Print out the head of demo_2
+```
+head(demo_2)
+```
