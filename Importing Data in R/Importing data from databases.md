@@ -1,5 +1,5 @@
-## 1. Importing data from databases 
-### I. Enviroment Build:
+## Importing data from databases 
+### 1. Enviroment Build:
 Load the DBI package
 ```
 library(DBI)
