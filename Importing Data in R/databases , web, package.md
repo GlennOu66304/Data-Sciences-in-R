@@ -21,3 +21,12 @@ Display structure of tables
 ```
 str(tables)
 ```
+Import the users table from tweater: users
+```
+users <- dbReadTable(con,"users")
+```
+
+Print users
+```
+users
+```
