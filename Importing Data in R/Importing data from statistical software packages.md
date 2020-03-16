@@ -50,7 +50,8 @@ Convert work$GENDER to a factor
 ```
 work$GENDER <- as_factor(work$GENDER)
 ```
-### 2.Import STATA data with foreign
+### 2.Import  data with foreign
+#### STATA
 Load the foreign package
 ```
 library(foreign)
@@ -84,4 +85,15 @@ str(edu_equal_2)
  ```
 edu_equal_3 <- read.dta(path, convert.underscore = TRUE)
 str(edu_equal_3)
+```
+#### SPSS
+Import international.sav as a data frame: demo
+<br> You'll need to specify two arguments inside read.spss(): path and to.data.frame
+```
+demo <- read.spss("international.sav", to.data.frame =TRUE)
+```
+Create boxplot of gdp variable of demo
+<br> Use boxplot() on a single column of demo. You can select this column using $.
+```
+boxplot(demo$gdp)
 ```
