@@ -60,3 +60,11 @@ Import post column of tweats where date is higher than '2015-09-21': latest
 ```
 latest <- dbGetQuery(con, "SELECT post FROM tweats WHERE date > '2015-09-21'")
 ```
+AND :Create an R data frame, specific, that selects the message column from the comments table where the tweat_id is 77 and the user_id is greater than 4.
+```
+specific <- dbGetQuery (con,"SELECT message FROM comments WHERE tweat_id = 77 AND user_id > 4")
+```
+CHAR_LENGTH():Create a data frame, short, that selects the id and name columns from the users table where the number of characters in the name is strictly less than 5.
+```
+short <- dbGetQuery(con, "SELECT id,name FROM users WHERE CHAR_LENGTH(name) < 5")
+```
