@@ -45,8 +45,10 @@ str(tables)
 ```
 ### 2. SQL Query in R
 
- As usual, you first pass the connection object to it. The second argument is an SQL query in the form of a character string. 
  Use dbGetQuery() to create a data frame, elisabeth, that selects the tweat_id column from the comments table where elisabeth is the commenter, her user_id is 1
+ 
+ As usual, you first pass the connection object to it. The second argument is an SQL query in the form of a character string. 
+ 
 ```
 elisabeth <-  dbGetQuery(con, "SELECT tweat_id FROM comments  WHERE user_id = 1")
 ```
