@@ -38,7 +38,7 @@ Import the .xls file with gdata: excel_gdata
 excel_gdata <- read.xls(url_xls)
 ```
 
- Download file behind URL, name it local_latitude.xls,download.file() requires two arguments: url, the URL you wish to download, and destfile, the destination file path. The latter is simply "local_latitude.xls".
+ Download file behind URL, name it local_latitude.xls, download.file() requires two arguments: url, the URL you wish to download, and destfile, the destination file path. The latter is simply "local_latitude.xls".
  ```
 local_latitude.xls <- download.file(url_xls,destfile="local_latitude.xls")
 ```
