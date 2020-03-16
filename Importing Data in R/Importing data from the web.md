@@ -80,3 +80,12 @@ Print the head of raw_content
 ```
 head(raw_content)
 ```
+Print content of resp as text
+```
+content(resp,as="text")
+```
+
+Print content of resp
+```
+content(resp)
+```
