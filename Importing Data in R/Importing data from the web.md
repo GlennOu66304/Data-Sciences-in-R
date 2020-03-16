@@ -89,7 +89,7 @@ Print content of resp
 ```
 content(resp)
 ```
-API && JASON
+### API && JASON
 Load the jsonlite package
 ```
 library(jsonlite)
@@ -106,4 +106,26 @@ wine <- fromJSON(wine_json)
 Print structure of wine
  ```
 str(wine)
+```
+Definition of quandl_url
+```
+quandl_url <- "https://www.quandl.com/api/v3/datasets/WIKI/FB/data.json?auth_token=i83asDsiWUUyfoypkgMz"
+```
+Import Quandl data: quandl_data
+```
+quandl_data <- fromJSON(quandl_url)
+```
+print structure of quandl_data
+```
+str(quandl_data)
+```
+Print out the Title element of both lists
+```
+sw4$Title
+sw3$Title
+```
+
+Is the release year of sw4 later than sw3?
+```
+sw4$Year > sw3$Year 
 ```
