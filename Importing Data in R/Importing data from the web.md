@@ -137,3 +137,22 @@ Convert the data file according to the requirements
 ```
 water_json <- toJSON(water)
 ```
+Convert mtcars to a pretty JSON: pretty_json
+```
+pretty_json <- toJSON(mtcars,pretty=TRUE)
+```
+
+Print pretty_json
+```
+pretty_json
+```
+
+Minify pretty_json: mini_json
+```
+mini_json <- minify(pretty_json)
+```
+
+Print mini_json
+```
+mini_json
+```
