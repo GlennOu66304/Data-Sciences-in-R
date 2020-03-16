@@ -47,3 +47,11 @@ Import the local .xls file with readxl: excel_readxl
 ```
 excel_readxl <- read_excel("local_latitude.xls")
 ```
+Load the wine data into your workspace using load()
+```
+load("wine_local.RData")
+```
+Print out the summary of the wine data
+```
+summary(wine)
+```
