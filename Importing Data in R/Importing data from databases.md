@@ -86,3 +86,7 @@ Clear res
 ```
 dbClearResult(res)
 ```
+Disconnect from the database
+```
+dbDisconnect(con)
+```
