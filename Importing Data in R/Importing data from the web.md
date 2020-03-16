@@ -55,3 +55,28 @@ Print out the summary of the wine data
 ```
 summary(wine)
 ```
+### HTTP? httr!
+Load the httr package
+```
+library(httr)
+```
+
+Get the url, save response to resp
+```
+url <- "http://www.example.com/"
+resp <- GET(url)
+```
+Print resp
+```
+resp
+```
+
+Get the raw content of resp: raw_content
+```
+raw_content <- content(resp,as="raw")
+```
+
+Print the head of raw_content
+```
+head(raw_content)
+```
