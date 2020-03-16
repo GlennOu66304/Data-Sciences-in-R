@@ -30,9 +30,7 @@ Structure of sugar again
 str(sugar)
 ```
 #### SPSS
-```
 Import person.sav: traits
-```
 ```
 traits <- read_sav("person.sav") 
 ```
@@ -46,4 +44,8 @@ Print out a subset:
 <br> subset of those individuals that scored high on Extroversion and on Agreeableness, i.e. scoring higher than 40 on each of these two categories
 ```
 subset(traits, Extroversion > 40 & Agreeableness > 40)
+```
+Convert work$GENDER to a factor
+```
+work$GENDER <- as_factor(work$GENDER)
 ```
