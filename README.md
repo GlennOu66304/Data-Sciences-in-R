@@ -1,8 +1,9 @@
 
 ### 2020.03.16
 ### Some thought in this file:
-Add Cheat Sheet code into new with below format.
+1.Add Cheat Sheet code into new with below format.
 ![picture alt](https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learninh/image/Code%20Snipt%20in%20Markdown.png "Title is optional")
+<br> 2. This strategy could be applied to Front end learing, Platform could use Code Pen.
   
 ### 2020.03.15
 ### Some thought in this file:
@@ -29,7 +30,7 @@ This Repo's structure:
 put these thoughts, then those will be placed to certain fold and draft it again, So it will be ready to tranform to my Blog.
 http://glennou.cn/
 
-R learning New stratyge:
+R learning New strategy:
 1. Try to make Cheat sheet by my own on the github;
 2. and every time to go to back to refer it and update it.
 3. Content include: Mind Map, and content Link, Personal thoughts.
