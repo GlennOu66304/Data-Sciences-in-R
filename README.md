@@ -2,7 +2,7 @@
 ### 2020.03.16
 ### Some thought in this file:
 Add Cheat Sheet code into new with below format.
-![picture alt](https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learninh/image/Code%20Snipt%20in%20Markdown.pnghttps://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learninh/image/Code%20Snipt%20in%20Markdown.png)
+![picture alt](https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learninh/image/Code%20Snipt%20in%20Markdown.png "Title is optional")
   
 ### 2020.03.15
 ### Some thought in this file:
