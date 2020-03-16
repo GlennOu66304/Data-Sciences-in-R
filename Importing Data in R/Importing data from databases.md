@@ -68,3 +68,21 @@ CHAR_LENGTH():Create a data frame, short, that selects the id and name columns f
 ```
 short <- dbGetQuery(con, "SELECT id,name FROM users WHERE CHAR_LENGTH(name) < 5")
 ```
+Send query to the database
+```
+res <- dbSendQuery(con, "SELECT * FROM comments WHERE user_id > 4")
+```
+
+Use dbFetch() twice
+In the first call, import only two records of the query result by setting the n argument to 2
+```
+dbFetch(res, n=2)
+```
+n the second call, import all remaining queries (don't specify n). In both calls, simply print the resulting data frames.
+```
+dbFetch(res)
+```
+Clear res
+```
+dbClearResult(res)
+```
