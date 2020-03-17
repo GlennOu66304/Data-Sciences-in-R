@@ -27,4 +27,16 @@ View the column names of bmi
 ```
 names(bmi)
 ```
+Load dplyr
+```
+library(dplyr)
+```
+Check the structure of bmi, the dplyr way
+```
+glimpse(bmi)
+```
 
+View a summary of bmi
+```
+summary(bmi)
+```
