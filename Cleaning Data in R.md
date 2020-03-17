@@ -6,9 +6,17 @@ View the first 6 rows of data
 ```
 head(weather)
 ```
+View the first 15 rows
+```
+head(bmi, 15)
+```
 View the last 6 rows of data
 ```
 tail(weather)
+```
+View the last 10 rows
+```
+tail(bmi, 10)
 ```
 
 View a condensed summary of the data
@@ -39,4 +47,8 @@ glimpse(bmi)
 View a summary of bmi
 ```
 summary(bmi)
+```
+Print the full dataset to the console
+```
+print(bmi)
 ```
