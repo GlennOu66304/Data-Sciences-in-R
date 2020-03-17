@@ -18,6 +18,14 @@ Apply the separate() function to bmi_cc
 <br>Save the result to a new object called bmi_cc_clean
 ```
 bmi_cc_clean <- separate(bmi_cc, col = "Country_ISO", into = c("Country", "ISO"), sep = "/")
+
+```
+Apply the unite() function to bmi_cc_clean
+<br>Reunite the Country and ISO columns into a single column called Country_ISO
+<br>Separate each country name and code with a dash (-)
+<br>Save the result as bmi_cc
+```
+bmi_cc <- unite(bmi_cc_clean,  Country_ISO,  c("Country", "ISO"),sep = "-")
 ```
 View the first 20 rows of the result
 ```
