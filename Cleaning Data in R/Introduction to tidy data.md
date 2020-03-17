@@ -12,7 +12,13 @@ make bmi_long wide again.
 ```
 bmi_wide <- spread(bmi_long, year, bmi_val)
 ```
-
+Apply the separate() function to bmi_cc
+<br>Separate Country_ISO into two columns: Country and ISO
+<br>Be sure to specify the correct separator with the sep argument
+<br>Save the result to a new object called bmi_cc_clean
+```
+bmi_cc_clean <- separate(bmi_cc, col = "Country_ISO", into = c("Country", "ISO"), sep = "/")
+```
 View the first 20 rows of the result
 ```
 head(bmi_long,20)
