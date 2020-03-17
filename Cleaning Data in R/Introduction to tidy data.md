@@ -1,11 +1,15 @@
 ### 2.Introduction to tidy data
 
 Apply gather() to bmi and save the result as bmi_long, This will create two new columns:
-year, containing as values what are currently column headers.
-bmi_val, the actual BMI values
+<br>year, containing as values what are currently column headers.
+<br>bmi_val, the actual BMI values
 
 ```
 bmi_long <- gather(bmi, year, bmi_val, -Country)
+```
+Run the code given to arrange() the rows of census2 by the YEAR column.
+```
+census2_arr <- arrange(census2, YEAR)
 ```
 Use spread() to reverse the operation that you performed in the last exercise with gather(). In other words, 
 make bmi_long wide again.
