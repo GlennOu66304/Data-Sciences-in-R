@@ -1,4 +1,5 @@
-## 1. Folder ##
+## 1. Folder and File ##
+If you wan to change the fold name or pdf upload name, you need to do it on the Github desk version.
 1. Creating new folders in GitHub repository via the browser. 
 https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
 2. Can not add a fold before a pdf file by using the solution above. This PDF file was uploaded from computer local.
