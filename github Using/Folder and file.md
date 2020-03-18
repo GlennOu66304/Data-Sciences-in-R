@@ -8,6 +8,8 @@ https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitH
 Moving and Renaming Files on GitHub
 <br>https://github.blog/2013-03-15-moving-and-renaming-files-on-github/
 ## 2. Git ##
-Git 手冊
+nnja advanced-git
+<br>https://github.com/nnja/advanced-git/blob/master/presentation/slides.pdf
+<br>Git 手冊
 <br> https://vincentliu99999.github.io/git-handbook/
 
