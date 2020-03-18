@@ -25,6 +25,7 @@ To https://github.com/GlennOu66304/Data-Sciences-in-R
    a1d8ba1..2d55826  R-Learninh -> R-Learninh
 bogon:Data-Sciences-in-R zt$ 
 ```
+
 If you wan to change the fold name or pdf upload name, you need to do it on the Github desk version.
 1. Creating new folders in GitHub repository via the browser. 
 https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
@@ -67,6 +68,8 @@ check what Git thinks a specific key’s value is by typing git config key:
 ```
 Installing on macOS
 <br>https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
+Change a directory name in a Github repository remotely, directly from local Linux Git?
+<br>https://unix.stackexchange.com/questions/424130/change-a-directory-name-in-a-github-repository-remotely-directly-from-local-lin
 
 ** Pro Git
 <br>https://git-scm.com/book/en/v2
