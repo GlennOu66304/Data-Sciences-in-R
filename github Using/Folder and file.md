@@ -13,9 +13,16 @@ Git install:
 ```
 $ git --version$ 
 ```
+Cloning an Existing Repository
+```
+$ git clone https://github.com/libgit2/libgit2 mylibgit
+```
+
 Installing on macOS
 <br>https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
+** Pro Git
+<br>https://git-scm.com/book/en/v2
 ** nnja advanced-git **
 <br>https://github.com/nnja/advanced-git/blob/master/presentation/slides.pdf
 <br>Git 手冊
