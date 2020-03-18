@@ -111,3 +111,11 @@ Use na.omit() to remove all rows with any missing values
 ```
 na.omit(social_df)
 ```
+View a histogram of absences, but force zeros to be bucketed to the right of zero
+```
+hist(students3$absences,right = FALSE)
+```
+View a boxplot of age
+```
+boxplot(students3$age)
+```
