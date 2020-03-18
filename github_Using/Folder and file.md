@@ -43,7 +43,7 @@ Installing on macOS
 
 ** Pro Git
 <br>https://git-scm.com/book/en/v2
-** nnja advanced-git **
+<br>**nnja advanced-git**
 <br>https://github.com/nnja/advanced-git/blob/master/presentation/slides.pdf
 <br>Git 手冊
 <br> https://vincentliu99999.github.io/git-handbook/
