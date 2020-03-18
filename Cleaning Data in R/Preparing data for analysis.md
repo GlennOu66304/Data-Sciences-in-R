@@ -79,4 +79,17 @@ Replace all instances of "F" with "Female" in students3$sex.
 ```
 students3$sex <- str_replace(students3$sex, "F", "Female")
 ```
+Call is.na() on social_df to spot all NA values.
+```
+is.na(social_df)
+```
 
+Use the any() function to ask whether there are any NAs in the data
+```
+any(is.na(social_df))
+```
+
+Call table() on the status column
+```
+table(social_df$status)
+```
