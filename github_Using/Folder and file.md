@@ -17,7 +17,27 @@ Cloning an Existing Repository
 ```
 $ git clone https://github.com/libgit2/libgit2 mylibgit
 ```
-
+view all of your settings and where they are coming from using:
+```
+$ git config --list --show-origin
+```
+set your user name and email address
+```
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
+Set Your Editor
+```
+$ git config --global core.editor emacs
+```
+Checking Your Settings
+```
+$ git config --list
+```
+check what Git thinks a specific key’s value is by typing git config key:
+ ```
+ $ git config user.name
+```
 Installing on macOS
 <br>https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
