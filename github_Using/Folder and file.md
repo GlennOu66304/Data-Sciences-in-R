@@ -1,4 +1,30 @@
 ## 1. Folder and File ##
+Git file name Change:
+```
+bogon:~ zt$ cd Data-Sciences-in-R
+bogon:Data-Sciences-in-R zt$ git mv README0.md README.md
+bogon:Data-Sciences-in-R zt$ git commit -am '[commit messgae]'
+
+[R-Learninh 2d55826] [commit messgae]
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+ rename README0.md => README.md (100%)
+ 
+bogon:Data-Sciences-in-R zt$ git pull
+
+Already up to date.
+bogon:Data-Sciences-in-R zt$ git push
+
+Enumerating objects: 3, done.
+Counting objects: 100% (3/3), done.
+Delta compression using up to 4 threads
+Compressing objects: 100% (2/2), done.
+Writing objects: 100% (2/2), 228 bytes | 228.00 KiB/s, done.
+Total 2 (delta 1), reused 0 (delta 0)
+remote: Resolving deltas: 100% (1/1), completed with 1 local object.
+To https://github.com/GlennOu66304/Data-Sciences-in-R
+   a1d8ba1..2d55826  R-Learninh -> R-Learninh
+bogon:Data-Sciences-in-R zt$ 
+```
 If you wan to change the fold name or pdf upload name, you need to do it on the Github desk version.
 1. Creating new folders in GitHub repository via the browser. 
 https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
