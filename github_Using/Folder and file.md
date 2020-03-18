@@ -1,4 +1,5 @@
-## 1. Folder ##
+## 1. Folder and File ##
+If you wan to change the fold name or pdf upload name, you need to do it on the Github desk version.
 1. Creating new folders in GitHub repository via the browser. 
 https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
 2. Can not add a fold before a pdf file by using the solution above. This PDF file was uploaded from computer local.
@@ -13,10 +14,37 @@ Git install:
 ```
 $ git --version$ 
 ```
+Cloning an Existing Repository
+```
+$ git clone https://github.com/libgit2/libgit2 mylibgit
+```
+view all of your settings and where they are coming from using:
+```
+$ git config --list --show-origin
+```
+set your user name and email address
+```
+$ git config --global user.name "John Doe"
+$ git config --global user.email johndoe@example.com
+```
+Set Your Editor
+```
+$ git config --global core.editor emacs
+```
+Checking Your Settings
+```
+$ git config --list
+```
+check what Git thinks a specific key’s value is by typing git config key:
+ ```
+ $ git config user.name
+```
 Installing on macOS
 <br>https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
 
-** nnja advanced-git **
+** Pro Git
+<br>https://git-scm.com/book/en/v2
+<br>**nnja advanced-git**
 <br>https://github.com/nnja/advanced-git/blob/master/presentation/slides.pdf
 <br>Git 手冊
 <br> https://vincentliu99999.github.io/git-handbook/
