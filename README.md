@@ -1,4 +1,7 @@
-
+### 2020.03.19
+### Some thought in this file:
+File content use the md format most, about PDF file use the link to instead,additional content will be added into md file,
+make sure that pipeline NO. was added.
 ### 2020.03.16
 ### Some thought in this file:
 1.Add Cheat Sheet code into new with below format.
