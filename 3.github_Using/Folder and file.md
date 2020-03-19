@@ -78,3 +78,8 @@ Change a directory name in a Github repository remotely, directly from local Lin
 <br>Git 手冊
 <br> https://vincentliu99999.github.io/git-handbook/
 
+### 2.Visul Studio Code
+#### Selecting the Color Theme
+In VS Code, open the Color Theme picker with **File > Preferences > Color Theme. (Code > Preferences > Color Theme on macOS)**.
+<br>Color Themes
+<br>https://code.visualstudio.com/docs/getstarted/themes
