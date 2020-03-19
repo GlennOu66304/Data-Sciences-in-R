@@ -33,3 +33,13 @@ Remove the first column of mbta2: mbta3
 ```
 mbta3 <- mbta2[, -1]
 ```
+Define vector of duplicate cols (don't change)
+```
+duplicates <- c(4, 6, 11, 13, 15, 17, 18, 20, 22, 
+                24, 25, 28, 32, 34, 36, 38, 40, 
+                44, 46, 48, 51, 54, 65, 158)
+```
+Remove duplicates from food: food2
+```
+food2 <- food[, -duplicates]
+```
