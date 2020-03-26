@@ -21,4 +21,7 @@ counties_selected %>%
 group_by(region) %>%
 top_n(1,walk)
 ```
-  
+starts_with(). Another select helper is ends_with(), which finds the columns that end with a particular string.Select the state, county, population, and those ending with "work"
+```
+  select(state, county, population, ends_with("work")) %>% 
+```
