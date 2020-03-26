@@ -15,3 +15,10 @@ counties_selected %>%
 counties_selected %>%
  summarise(min_population=min(population),max_unemployment=max(unemployment),average_income=mean(income)) 
  ```
+Group by region and find the greatest number of citizens who walk to work
+```
+counties_selected %>%
+group_by(region) %>%
+top_n(1,walk)
+```
+  
