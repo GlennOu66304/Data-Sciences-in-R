@@ -25,3 +25,9 @@ starts_with(). Another select helper is ends_with(), which finds the columns tha
 ```
   select(state, county, population, ends_with("work")) %>% 
 ```
+Rename the n column to num_counties
+```
+counties %>%
+  count(state) %>%
+  rename(num_counties = n)
+  ```
