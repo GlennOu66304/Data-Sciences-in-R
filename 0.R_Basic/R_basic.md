@@ -36,3 +36,7 @@ Select state, county, and poverty as poverty_rate
 counties %>%
    select(state, county, poverty_rate = poverty)
    ```
+Keep the state, county, and populations columns, and add a density column
+```
+  transmute(state, county, population, density = population / land_area) %>%
+```
