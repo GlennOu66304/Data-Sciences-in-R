@@ -40,3 +40,8 @@ Keep the state, county, and populations columns, and add a density column
 ```
   transmute(state, county, population, density = population / land_area) %>%
 ```
+Filter for the names Steven, Thomas, and Matthew
+```
+names_filtered <- names_normalized %>%
+ filter(name==c("Steven", "Thomas", "Matthew")) %>%
+ ```
