@@ -45,3 +45,19 @@ Filter for the names Steven, Thomas, and Matthew
 names_filtered <- names_normalized %>%
  filter(name==c("Steven", "Thomas", "Matthew")) %>%
  ```
+#### 2.dplyr Join Two table together:
+Use the suffix argument to replace .x and .y suffixes
+```
+parts %>% 
+	inner_join(part_categories, by = c("part_cat_id" = "id"), suffix = c("_part", "_category"))
+```
+
+
+
+References:
+
+Join two tbls together
+<br>https://dplyr.tidyverse.org/reference/join.html
+
+Join two tables
+<br>https://stat545.com/join-cheatsheet.html#the-data
