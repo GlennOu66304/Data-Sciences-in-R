@@ -52,8 +52,17 @@ inner_join:
 parts %>% 
 	inner_join(part_categories, by = c("part_cat_id" = "id"), suffix = c("_part", "_category"))
 ```
+Joining three tables
+```
+sets %>%
+	inner_join(inventories, by = "set_num") %>%
+	inner_join(inventory_parts, by = c("id" = "inventory_id"))
+```
 
-
+Count the name_color column and sort the results so the most prominent colors appear first.
+```
+count(name_color, sort=TRUE)
+```
 
 References:
 
