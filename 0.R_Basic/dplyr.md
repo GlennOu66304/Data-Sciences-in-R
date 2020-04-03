@@ -46,7 +46,8 @@ names_filtered <- names_normalized %>%
  filter(name==c("Steven", "Thomas", "Matthew")) %>%
  ```
 #### 2.dplyr Join Two table together:
-Use the suffix argument to replace .x and .y suffixes
+inner_join:
+<br>Use the suffix argument to replace .x and .y suffixes
 ```
 parts %>% 
 	inner_join(part_categories, by = c("part_cat_id" = "id"), suffix = c("_part", "_category"))
