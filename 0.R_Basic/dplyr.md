@@ -84,6 +84,16 @@ replace_na
 # Use replace_na to replace missing values in the n column
 	replace_na(list(n = 0))
 ```
+full_join
+
+```
+batman_parts %>%
+  # Combine the star_wars_parts table 
+  full_join(star_wars_parts, by = c("part_num", "color_id"), suffix = c("_batman", "_star_wars")) %>%
+  # Replace NAs with 0s in the n_batman and n_star_wars columns 
+  replace_na(list(n_batman = 0, n_star_wars = 0))
+```
+
 References:
 
 Join two tbls together
