@@ -64,6 +64,11 @@ Count the name_color column and sort the results so the most prominent colors ap
 count(name_color, sort=TRUE)
 ```
 
+Combine the star_destroyer and millennium_falcon tables with the suffixes _falcon and _star_destroyer.
+ ```
+millennium_falcon %>%
+  left_join(star_destroyer, by = c("part_num", "color_id"), suffix = c("_falcon", "_star_destroyer"))
+```  
 References:
 
 Join two tbls together
