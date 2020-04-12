@@ -93,6 +93,18 @@ batman_parts %>%
   # Replace NAs with 0s in the n_batman and n_star_wars columns 
   replace_na(list(n_batman = 0, n_star_wars = 0))
 ```
+semi_join
+```
+# Filter the batwing set for parts that are also in the batmobile set
+batwing %>%
+  semi_join(batmobile, by = c("part_num"))
+```
+anti_join
+```
+# Filter the batwing set for parts that aren't in the batmobile set
+batwing %>%
+  anti_join(batmobile, by = c("part_num"))
+``` 
 
 References:
 
