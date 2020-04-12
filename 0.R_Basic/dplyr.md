@@ -79,6 +79,11 @@ parts %>%
 	# Filter for NA
 	filter(is.na(n))
 ```
+replace_na
+```
+# Use replace_na to replace missing values in the n column
+	replace_na(list(column = 0))
+```
 References:
 
 Join two tbls together
