@@ -82,7 +82,7 @@ parts %>%
 replace_na
 ```
 # Use replace_na to replace missing values in the n column
-	replace_na(list(column = 0))
+	replace_na(list(n = 0))
 ```
 References:
 
