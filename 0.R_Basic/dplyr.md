@@ -71,6 +71,14 @@ Combine the star_destroyer and millennium_falcon tables with the suffixes _falco
 millennium_falcon %>%
   left_join(star_destroyer, by = c("part_num", "color_id"), suffix = c("_falcon", "_star_destroyer"))
 ```  
+right_join
+```
+parts %>%
+	count(part_cat_id) %>%
+	right_join(part_categories, by = c("part_cat_id" = "id")) %>%
+	# Filter for NA
+	filter(is.na(n))
+```
 References:
 
 Join two tbls together
