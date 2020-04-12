@@ -64,6 +64,8 @@ Count the name_color column and sort the results so the most prominent colors ap
 count(name_color, sort=TRUE)
 ```
 
+left_join
+
 Combine the star_destroyer and millennium_falcon tables with the suffixes _falcon and _star_destroyer.
  ```
 millennium_falcon %>%
