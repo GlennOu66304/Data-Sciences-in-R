@@ -1,5 +1,4 @@
-# 1. Folder and File 
-
+## 1. Folder and File 
 Git file name Change:
 ```
 bogon:~ zt$ cd Data-Sciences-in-R
@@ -37,8 +36,8 @@ https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitH
 Moving and Renaming Files on GitHub
 <br>https://github.blog/2013-03-15-moving-and-renaming-files-on-github/
 
-### Organize the Data Sciences Guide map  and Single file downloading
-1. Organize the Data Sciences Guide map with information plus Project Fold format. within Fold contains Code file, Technician Explanation. Please note that you need to build an repository if the project is bigger enough.
+### Organize the Data Sciences Guide map  and Single file downloading from github.
+1.Organize the Data Sciences Guide map with information plus Project Fold format. within Fold contains Code file, Technician Explanation. Please note that you need to build an repository if the project is bigger enough.
 You can download the single file from GitHub by using the GitZip:
 
 1.Get Token:
@@ -56,7 +55,6 @@ get-token-step.md
 
 4. Project Sample:
 <br>https://github.com/GlennOu66304/ViaX-Data-Science-And-Big-Data/tree/master/Week1/Week_1_Glenn-1908_DS80
-
 
 ## 2. Git ##
 
