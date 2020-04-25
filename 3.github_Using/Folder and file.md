@@ -37,7 +37,8 @@ Moving and Renaming Files on GitHub
 <br>https://github.blog/2013-03-15-moving-and-renaming-files-on-github/
 
 ### Organize the Data Sciences Guide map  and Single file downloading from github.
-1.Organize the Data Sciences Guide map with information plus Project Fold format. within Fold contains Code file, Technician Explanation. Please note that you need to build an repository if the project is bigger enough.
+1.Organize the Data Sciences Guide map with content information(contain the Project Link, Utilize the content information as 
+path refer) plus Project Fold format. within Fold contains Code file, Technician Explanation. Please note that you need to build an repository if the project is bigger enough.
 You can download the single file from GitHub by using the GitZip:
 
 1.Get Token:
