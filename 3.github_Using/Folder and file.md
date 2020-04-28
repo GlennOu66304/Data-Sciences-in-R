@@ -36,7 +36,7 @@ https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitH
 Moving and Renaming Files on GitHub
 <br>https://github.blog/2013-03-15-moving-and-renaming-files-on-github/
 
-### Organize the Data Sciences Guide map  and Single file downloading from github.
+### Organize the Data Sciences Guide map  and Single Fold downloading from github.
 1.Organize the Data Sciences Guide map with content information(contain the Project Link, Utilize the content information as 
 path refer) plus Project Fold format. within Fold contains Code file, Technician Explanation. Please note that you need to build an repository if the project is bigger enough.
 You can download the single file from GitHub by using the GitZip:
@@ -56,6 +56,8 @@ get-token-step.md
 
 4. Project Sample:
 <br>https://github.com/GlennOu66304/ViaX-Data-Science-And-Big-Data/tree/master/Week1/Week_1_Glenn-1908_DS80
+
+### Single Fold downlasing, you copuld click that file then go to file details page to choose downlaod option to download it.
 
 ## 2. Git ##
 
