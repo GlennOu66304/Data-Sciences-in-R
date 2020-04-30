@@ -92,7 +92,7 @@ check what Git thinks a specific key’s value is by typing git config key:
 ```
 Installing on macOS
 <br>https://git-scm.com/book/en/v2/Getting-Started-Installing-Git
-Change a directory name in a Github repository remotely, directly from local Linux Git?
+<br>Change a directory name in a Github repository remotely, directly from local Linux Git?
 <br>https://unix.stackexchange.com/questions/424130/change-a-directory-name-in-a-github-repository-remotely-directly-from-local-lin
 
 ** Pro Git
