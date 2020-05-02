@@ -228,6 +228,16 @@ Emoji:
 
     Markup : Code appears between colons :EMOJICODE:
 
+image insert,Refer:
+<br>https://github.com/javaSwing/NeteaseCloudWebApp/blob/master/README.md
+```
+## 运行截图
+![首页](https://github.com/javaSwing/NeteaseCloudWebApp/raw/master/screenshots/1.png)
+![详情](https://github.com/javaSwing/NeteaseCloudWebApp/raw/master/screenshots/2.png)
+![动图](https://github.com/javaSwing/NeteaseCloudWebApp/raw/master/screenshots/3.gif)
+![动图](https://github.com/javaSwing/NeteaseCloudWebApp/raw/master/screenshots/4.gif)
+```
+
 ### Markdown Learning resources:
 1.Learning-Markdown
 <br> http://xianbai.me/learn-md/index.html
