@@ -1,5 +1,5 @@
 # R Explore Data.
-
+## Histgram
 ```
 setwd('/Users/zhanghuiqiao/Downloads')
 pf <- read.csv('pseudo_facebook.tsv', sep = '\t')
