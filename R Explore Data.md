@@ -1,5 +1,7 @@
 # R Explore Data.
 ## Histgram
+Quick plot
+<br>https://ggplot2.tidyverse.org/reference/qplot.html
 ```
 setwd('/Users/zhanghuiqiao/Downloads')
 pf <- read.csv('pseudo_facebook.tsv', sep = '\t')
