@@ -11,5 +11,5 @@ Reference Links:
 ## Mac Sider bar and Tool bar Customized
 1. identify the sider bar and tool bar
 <br>https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learning/image/Mac%20Sider%20bar%20and%20Tool%20bar.png
-2.Edit the tool bar in finder preference:
+<br>2.Edit the tool bar in finder preference:
 <br>https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learning/image/Sider%20Bar%20edit.png
