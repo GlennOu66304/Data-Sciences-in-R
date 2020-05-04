@@ -173,7 +173,11 @@ _Image with alt :_
 ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
 
     Markup : ![picture alt](http://via.placeholder.com/200x150 "Title is optional")
-
+   
+Or simplify like this:
+```
+![ ](https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learning/image/Allow%20R%20markdown%20content%20in%20console%20contetn.png)
+```
 Foldable text:
 
 <details>
