@@ -21,7 +21,7 @@ ggplot(aes(x = friend_count), data = pf) +
 ```
 
 ### In R markdwon , If you want to run R Code at command line as the with a R scipt, Like you do not want to see plot inlie, you could Click Seting section symbol (next to Knit),Then choose Chunk out put in console.you can see the location as image below:
-!(https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learning/image/Allow%20R%20markdown%20content%20in%20console%20contetn.png)
+![ ](https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learning/image/Allow%20R%20markdown%20content%20in%20console%20contetn.png)
 
 
 Blogs:
