@@ -21,3 +21,6 @@ ggplot(aes(x = friend_count), data = pf) +
 ```
 
 Run this code in R scrpt, The plot will be played in plot section, Run this code in R Markdown, The plot will be played in the R Markdown file inside.
+
+ggplot2 tutorial by Ramon Saccilotto
+<br>http://bbs.ceb-institute.org/wp-content/uploads/2011/09/handout_ggplot2.pdf
