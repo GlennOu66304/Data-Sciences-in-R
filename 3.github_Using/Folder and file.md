@@ -1,5 +1,5 @@
 ## 1. Folder and File 
-Git file name Change:
+### 1.Git file name Change:
 ```
 bogon:~ zt$ cd Data-Sciences-in-R
 bogon:Data-Sciences-in-R zt$ git mv README0.md README.md
@@ -26,10 +26,22 @@ To https://github.com/GlennOu66304/Data-Sciences-in-R
 bogon:Data-Sciences-in-R zt$ 
 ```
 
-If you wan to change the fold name or pdf upload name, you need to do it on the Github desk version.
-1. Creating new folders in GitHub repository via the browser. 
+### 2.Github desk change:
+#### If you wan to change the fold name or pdf upload name, you need to do it on the Github desk version.
+Change a Git hub a directory's name, a top fold has few small folds. in this situation you can choose the git or github desk:
+
+#### github desk:
+1.download the github desk;
+<br>GitHub Desktop
+<br>https://desktop.github.com/
+<br>2. clone the repository into local;
+<br>3. change the flod's name in local;
+<br>4. Commit this change in the github desk;
+<br>5.Fetch the change into github;
+
+#### 3. Creating new folders in GitHub repository via the browser. 
 https://github.com/KirstieJane/STEMMRoleModels/wiki/Creating-new-folders-in-GitHub-repository-via-the-browser
-2. Can not add a fold before a pdf file by using the solution above. This PDF file was uploaded from computer local.
+#### 4. Can not add a fold before a pdf file by using the solution above. This PDF file was uploaded from computer local.
  in order to prevent this happen, you need to change it by git or using github desk version. 
 ![picture alt](https://github.com/GlennOu66304/R-Cheat-Sheet/blob/R-Learninh/image/PDF%20file.png)
 
