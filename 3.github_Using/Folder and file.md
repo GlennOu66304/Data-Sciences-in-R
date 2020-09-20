@@ -75,7 +75,7 @@ get-token-step.md
 
 Git install:
 ```
-$ git --version$ 
+$ git --version 
 ```
 Cloning an Existing Repository
 ```
