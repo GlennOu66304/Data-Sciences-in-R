@@ -21,7 +21,10 @@ git commit -m "eleme1"
 git checkout -b eleme1
 ```
 3.connect with github repo
-
+```
+git remote add origin git@github.com:GlennOu66304/Eleme.git 
+```
+[添加远程库](https://www.liaoxuefeng.com/wiki/896043488029600/900003767775424).  
 
 
 ### 1.Git file name Change:
