@@ -25,7 +25,18 @@ git checkout -b eleme1
 git remote add origin git@github.com:GlennOu66304/Eleme.git 
 ```
 [添加远程库](https://www.liaoxuefeng.com/wiki/896043488029600/900003767775424).  
-
+4.push the branch code to the github
+```
+git checkout eleme1
+git push origin eleme1
+```
+## Bug fixing:git: updates were rejected because the remote contains work that you do not have locally
+```
+git branch -a
+checkout -b main
+git push -f origin main
+```
+[git: updates were rejected because the remote contains work that you do not have locally](https://stackoverflow.com/questions/24357108/git-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-have).  
 
 ### 1.Git file name Change:
 ```
