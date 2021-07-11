@@ -38,6 +38,11 @@ git push -f origin main
 ```
 [git: updates were rejected because the remote contains work that you do not have locally](https://stackoverflow.com/questions/24357108/git-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-have).  
 
+### Reference:
+1.[廖雪峰Git](https://www.liaoxuefeng.com/wiki/896043488029600/900003767775424).   
+2.[deleting branches within your repository](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository).   
+3.[5 steps to change GitHub default branch from master to main](https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/).   
+
 ### 1.Git file name Change:
 ```
 bogon:~ zt$ cd Data-Sciences-in-R
