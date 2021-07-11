@@ -39,11 +39,15 @@ git push -f origin main
 [git: updates were rejected because the remote contains work that you do not have locally](https://stackoverflow.com/questions/24357108/git-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-have).  
 ## fatal: pathspec 'README.txt' did not match any files
 [fatal: pathspec 'README.txt' did not match any files](https://stackoverflow.com/questions/47877925/fatal-pathspec-readme-txt-did-not-match-any-files). 
+## Bug:In GitHub, what do I do with “Your recently pushed branches” messages
+[In GitHub, what do I do with “Your recently pushed branches” messages](https://www.sitepoint.com/community/t/in-github-what-do-i-do-with-your-recently-pushed-branches-messages/306534).   
 ### Reference:
 1.[廖雪峰Git](https://www.liaoxuefeng.com/wiki/896043488029600/900003767775424).   
 2.[deleting branches within your repository](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository).   
-3.[5 steps to change GitHub default branch from master to main](https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/).   
-
+3.[5 steps to change GitHub default branch from master to main](https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/).  
+4.[尚硅谷】Git与GitHub基础全套完整版教程（快速上手，一套搞定）](https://www.bilibili.com/video/BV1pW411A7a5?p=9).   
+5.[万字长文，手把手教你玩转Git！](https://juejin.cn/post/6847902219245715463#heading-36).   
+6.[初次使用git上传代码到github远程仓库](https://zhuanlan.zhihu.com/p/138305054).   
 ### 1.Git file name Change:
 ```
 bogon:~ zt$ cd Data-Sciences-in-R
