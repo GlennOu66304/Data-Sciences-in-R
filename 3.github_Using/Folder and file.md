@@ -1,4 +1,29 @@
 ## 1. Folder and File 
+
+## How to push a local project into the github
+1.git iniatialize in the project:
+```
+git init
+
+```
+let the local repo from working directory to staging directory
+```
+git add -A or git add . 
+```
+[Git: Add All Files to a Repo](https://stackabuse.com/git-add-all-files-to-a-repo).  
+then commit it into the final version, it is ready to be placed to the github
+```
+git commit -m "eleme1"   
+```
+[工作区和暂存区](https://www.liaoxuefeng.com/wiki/896043488029600/897271968352576).  
+2.build the branch:
+```
+git checkout -b eleme1
+```
+3.connect with github repo
+
+
+
 ### 1.Git file name Change:
 ```
 bogon:~ zt$ cd Data-Sciences-in-R
