@@ -47,7 +47,11 @@ git push -f origin main
 3.[5 steps to change GitHub default branch from master to main](https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/).  
 4.[尚硅谷】Git与GitHub基础全套完整版教程（快速上手，一套搞定）](https://www.bilibili.com/video/BV1pW411A7a5?p=9).   
 5.[万字长文，手把手教你玩转Git！](https://juejin.cn/post/6847902219245715463#heading-36).   
-6.[初次使用git上传代码到github远程仓库](https://zhuanlan.zhihu.com/p/138305054).   
+6.[初次使用git上传代码到github远程仓库](https://zhuanlan.zhihu.com/p/138305054).  
+
+## Help, I keep getting a 'Permission Denied (publickey)' error when I push!"
+[Help, I keep getting a 'Permission Denied (publickey)' error when I push!"](https://gist.github.com/adamjohnson/5682757). 
+6.[初次使用git上传代码到github远程仓库](https://zhuanlan.zhihu.com/p/138305054).     
 ### 1.Git file name Change:
 ```
 bogon:~ zt$ cd Data-Sciences-in-R
