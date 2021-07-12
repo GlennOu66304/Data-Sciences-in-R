@@ -37,6 +37,16 @@ checkout -b main
 git push -f origin main
 ```
 [git: updates were rejected because the remote contains work that you do not have locally](https://stackoverflow.com/questions/24357108/git-updates-were-rejected-because-the-remote-contains-work-that-you-do-not-have).  
+
+## push few files to the github Git
+```
+git add subway.py
+git add subway_beijing.html
+git commit -m "subway.py and subway_html"
+git branch
+ git push origin Quantitative_trading
+```
+
 ## fatal: pathspec 'README.txt' did not match any files
 [fatal: pathspec 'README.txt' did not match any files](https://stackoverflow.com/questions/47877925/fatal-pathspec-readme-txt-did-not-match-any-files). 
 ## Bug:In GitHub, what do I do with “Your recently pushed branches” messages
