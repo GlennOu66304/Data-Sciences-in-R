@@ -1,3 +1,13 @@
+# github
+
+## Github search:
+```
+betterscroll extension:vue
+```
+
+[How to search for code in Github](https://www.youtube.com/watch?v=K4FatbcgPIU).  
+
+
 ## Download the certain folder of the github repo:
 1.install the svn:  
 ```
