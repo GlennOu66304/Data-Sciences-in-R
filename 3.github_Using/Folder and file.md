@@ -1,5 +1,30 @@
 ## 1. Folder and File 
 
+```
+branc and github build
+
+(Git)new branch
+```
+git checkout -b eleme2
+```
+
+(Github)new branch push 
+```
+git push origin eleme2
+```
+
+(Git)merge to main branch 
+```
+git merge main
+```
+
+(Git hub)Push to the main branch
+```
+git push origin main
+```
+
+```
+
 ## How to push a local project into the github
 1.git iniatialize in the project:
 ```
