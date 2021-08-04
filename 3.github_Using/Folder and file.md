@@ -1,7 +1,7 @@
 ## 1. Folder and File 
 
-```
-branc and github build
+
+branch and github build
 
 (Git)new branch
 ```
