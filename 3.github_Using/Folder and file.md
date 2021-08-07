@@ -22,9 +22,6 @@ git merge main
 ```
 git push origin main
 ```
-
-```
-
 ## How to push a local project into the github
 1.git iniatialize in the project:
 ```
