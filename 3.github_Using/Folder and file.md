@@ -204,3 +204,7 @@ Installing on macOS
 In VS Code, open the Color Theme picker with **File > Preferences > Color Theme. (Code > Preferences > Color Theme on macOS)**.
 <br>Color Themes
 <br>https://code.visualstudio.com/docs/getstarted/themes
+
+## SourceTree
+[Sourcetree在mac平台下的安装与使用超详尽教程](https://www.jianshu.com/p/b8d0547a8449)   
+[使用SourceTree](https://www.liaoxuefeng.com/wiki/896043488029600/1317161920364578)  
