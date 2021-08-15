@@ -23,6 +23,17 @@ git merge main
 git push origin main
 ```
 ## How to push a local project into the github
+```
+git init
+git add .
+git commit -m "CMS"
+git branch
+git remote add origin git@github.com:GlennOu66304/CMS.git
+git branch -M main
+git push -u origin main
+git branch
+```
+
 1.git iniatialize in the project:
 ```
 git init
