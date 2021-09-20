@@ -1,4 +1,7 @@
 # Mac Using
+
+## Mac battery logo lost
+[如何重置 Mac 的 SMC](https://support.apple.com/zh-cn/HT201295)   
 ## Can not Restart or shut down your Mac
 If  you meet that you can not Restart or shut down your Mac, Just try shut down (restat)--->Command + Option + Shift + Esc 
 one or two seconds, Then your app will log out(Bai du Net).
