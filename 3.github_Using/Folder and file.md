@@ -38,6 +38,20 @@ Remove the origin
 git remote remove origin
 ```
 [How to remove remote origin from a Git repository](https://stackoverflow.com/questions/16330404/how-to-remove-remote-origin-from-a-git-repository).  
+
+## ! [rejected] master -> master (fetch first)
+
+```
+git push origin master --force
+```
+[! [rejected] master -> master (fetch first)](https://stackoverflow.com/questions/28429819/rejected-master-master-fetch-first) 
+```
+git pull --rebase origin master
+git push origin master
+```
+[git 解决push报错：! [rejected] master -> master (fetch first) error: failed to push some refs to ' '](https://blog.csdn.net/ourstronger/article/details/103460249?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
+
+
 1.git iniatialize in the project:
 ```
 git init
