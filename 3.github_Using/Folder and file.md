@@ -33,7 +33,11 @@ git branch -M main
 git push -u origin main
 git branch
 ```
-
+Remove the origin
+```
+git remote remove origin
+```
+[How to remove remote origin from a Git repository](https://stackoverflow.com/questions/16330404/how-to-remove-remote-origin-from-a-git-repository).  
 1.git iniatialize in the project:
 ```
 git init
