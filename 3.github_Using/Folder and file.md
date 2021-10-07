@@ -112,7 +112,13 @@ git branch
 
 ## Help, I keep getting a 'Permission Denied (publickey)' error when I push!"
 [Help, I keep getting a 'Permission Denied (publickey)' error when I push!"](https://gist.github.com/adamjohnson/5682757). 
-6.[初次使用git上传代码到github远程仓库](https://zhuanlan.zhihu.com/p/138305054).     
+6.[初次使用git上传代码到github远程仓库](https://zhuanlan.zhihu.com/p/138305054).  
+
+## Set Vs code as your global git editor
+[Set Visual Studio Code to be global Git editor on OSX](https://stackoverflow.com/questions/34746045/set-visual-studio-code-to-be-global-git-editor-on-osx)  
+## Clone a Private Github Repo
+[Github clone with oauth access token](https://stackoverflow.com/questions/42148841/github-clone-with-oauth-access-token)   
+
 ### 1.Git file name Change:
 ```
 bogon:~ zt$ cd Data-Sciences-in-R
