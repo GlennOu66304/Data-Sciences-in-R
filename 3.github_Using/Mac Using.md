@@ -1,5 +1,22 @@
 # Mac Using
 
+## Mac OS update to the old version
+
+For OS macOS Sierra 10.12, simply head to the url belolw to dowload the OSX dmg file, then install it
+[Download macOS using Safari on your Mac](https://support.apple.com/en-us/HT211683)  
+
+Updated package, not whole system For Version 10.14: "Mojave" Specifi version, you need to head to the wikipedia specific version page to download the specific version of "Mojave"
+[Release history](https://en.wikipedia.org/wiki/MacOS_Mojave)   
+
+Direct Link:[Download Security Update 2019-001 (Mojave)](https://support.apple.com/kb/DL2024?locale=en_SG)  
+
+From the appstore, you can always receive the latest specific version of osx big version.
+
+## X code for Mojave
+
+[How to run Xcode 11.4 on macOS Mojave 10.14.6](https://stackoverflow.com/questions/61013626/how-to-run-xcode-11-4-on-macos-mojave-10-14-6)    
+[How to download Xcode DMG or XIP file?](https://stackoverflow.com/questions/10335747/how-to-download-xcode-dmg-or-xip-file)   
+
 ## Mac battery logo lost
 [如何重置 Mac 的 SMC](https://support.apple.com/zh-cn/HT201295)   
 ## Can not Restart or shut down your Mac
