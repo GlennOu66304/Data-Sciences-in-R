@@ -1,6 +1,8 @@
 # Mac Using
 
-
+## 为什么word打字后面的字会消失？
+Pres insert on the keyboard
+[为什么word打字后面的字会消失？](https://blog.csdn.net/ma20120607/article/details/53744337)
 
 ## Terminal is really slow
 
