@@ -1,5 +1,13 @@
 # Mac Using
 
+
+
+## Terminal is really slow
+
+[How do I speed up new Terminal tab loading time?](https://apple.stackexchange.com/questions/41743/how-do-i-speed-up-new-terminal-tab-loading-time)   
+
+
+
 ## Mac OS update to the old version
 
 For OS macOS Sierra 10.12, simply head to the url belolw to dowload the OSX dmg file, then install it
