@@ -1,5 +1,12 @@
 # Mac Using
 
+## 如何解决Google Chrome中的SSL证书错误？
+
+Resintall the Chrome app, then open the IP address
+[如何解决Google Chrome中的SSL证书错误？](https://www.sslcer.com/archives/307)    
+[The browser built by Google](https://www.google.cn/intl/en_uk/chrome/) 
+
+
 ## 为什么word打字后面的字会消失？
 Pres insert on the keyboard
 [为什么word打字后面的字会消失？](https://blog.csdn.net/ma20120607/article/details/53744337)
@@ -7,8 +14,6 @@ Pres insert on the keyboard
 ## Terminal is really slow
 
 [How do I speed up new Terminal tab loading time?](https://apple.stackexchange.com/questions/41743/how-do-i-speed-up-new-terminal-tab-loading-time)   
-
-
 
 ## Mac OS update to the old version
 
