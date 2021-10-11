@@ -145,6 +145,20 @@ To https://github.com/GlennOu66304/Data-Sciences-in-R
    a1d8ba1..2d55826  R-Learninh -> R-Learninh
 bogon:Data-Sciences-in-R zt$ 
 ```
+## Git uninstall
+Git uninstall:[卸载Git](https://blog.csdn.net/weixin_44653603/article/details/87194598)  
+Mac系统下安装卸载Git:[Mac系统下安装卸载Git](https://www.jianshu.com/p/898e1516c19a)  
+
+## Git branch delete include locally and remotely
+[How do I delete a Git branch locally and remotely?](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely)   
+
+## List of remotes for a Git repository?
+```
+git remote -v
+```
+[List of remotes for a Git repository?](https://stackoverflow.com/questions/10183724/list-of-remotes-for-a-git-repository)   
+
+
 
 ### 2.Github desk change:
 #### If you wan to change the fold name or pdf upload name, you need to do it on the Github desk version.
