@@ -145,6 +145,18 @@ To https://github.com/GlennOu66304/Data-Sciences-in-R
    a1d8ba1..2d55826  R-Learninh -> R-Learninh
 bogon:Data-Sciences-in-R zt$ 
 ```
+## How do I clone a specific Git branch? [duplicate]
+```
+git clone -b my-branch git@github.com:user/myproject.git
+```
+
+[How do I clone a specific Git branch? ](https://stackoverflow.com/questions/1911109/how-do-i-clone-a-specific-git-branch)
+
+## Git push to github some wrong folder and files
+make sure you remove the .git (hiden file CMD + shift + . to check), then git will not track the file
+under users directory or desktop.
+
+
 ## Git uninstall
 Git uninstall:[卸载Git](https://blog.csdn.net/weixin_44653603/article/details/87194598)  
 Mac系统下安装卸载Git:[Mac系统下安装卸载Git](https://www.jianshu.com/p/898e1516c19a)  
