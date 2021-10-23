@@ -170,7 +170,12 @@ git remote -v
 ```
 [List of remotes for a Git repository?](https://stackoverflow.com/questions/10183724/list-of-remotes-for-a-git-repository)   
 
-
+## Git merge
+```
+git checkout main
+git merge typescript_start
+```
+[3-way merge](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
 
 ### 2.Github desk change:
 #### If you wan to change the fold name or pdf upload name, you need to do it on the Github desk version.
