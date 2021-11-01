@@ -1,4 +1,9 @@
 # Mac Using
+
+## Baiduclound VIP
+[ 百度会员](http://www.baiduhuiyuan.com/?btwaf=89965091)
+[acrobat dc pro](https://www.chenxingyong.com/2021/07/14/acrobat/)  
+
 ## Software shareing site:
 
 [MacWk](https://www.macwk.com/)
