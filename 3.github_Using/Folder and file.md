@@ -162,6 +162,11 @@ Git uninstall:[卸载Git](https://blog.csdn.net/weixin_44653603/article/details/
 Mac系统下安装卸载Git:[Mac系统下安装卸载Git](https://www.jianshu.com/p/898e1516c19a)  
 
 ## Git branch delete include locally and remotely
+Delete Local Branch
+```
+$ git branch -d <branch_name>
+$ git branch -D <branch_name>
+```
 [How do I delete a Git branch locally and remotely?](https://stackoverflow.com/questions/2003505/how-do-i-delete-a-git-branch-locally-and-remotely)   
 
 ## List of remotes for a Git repository?
