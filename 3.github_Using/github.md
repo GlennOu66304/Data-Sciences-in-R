@@ -9,6 +9,13 @@ betterscroll extension:vue
 
 
 ## Download the certain folder of the github repo:
+svn can not be used in MacOS Big Sur 11.0.1 (20B29).:
+```
+brew install svn
+```
+[svn can not be used in MacOS Big Sur 11.0.1 (20B29).](https://developer.apple.com/forums/thread/666689)   
+
+
 1.install the svn:  
 ```
 wget http://opensource.wandisco.com/1.11/scripts/subversion_installer_1.11.sh
