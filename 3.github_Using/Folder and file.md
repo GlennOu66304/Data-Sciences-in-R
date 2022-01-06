@@ -1,5 +1,22 @@
 ## 1. Folder and File 
 
+## Git rename a branch name
+```
+git branch -m HEAD newbranch
+```
+[warning: refname 'HEAD' is ambiguous](https://stackoverflow.com/questions/1692892/warning-refname-head-is-ambiguous)
+## Git recall merge command
+git reset --hard 
+[Git怎样撤销一次分支的合并Merge](https://segmentfault.com/q/1010000000140446)
+
+[Git merge and git rebase](https://www.perforce.com/blog/vcs/git-rebase-vs-git-merge-which-better)   
+
+[git branch merge](https://www.w3schools.com/git/git_branch_merge.asp)   
+
+[Git合并那些事——撤销合并](https://morningspace.github.io/tech/git-merge-stories-5/)   
+
+[Create-react-app - ERROR in Plugin "react" was conflicted between ".eslintrc.json" and "BaseConfig"](https://stackoverflow.com/questions/70449712/create-react-app-error-in-plugin-react-was-conflicted-between-eslintrc-jso/70451413)
+
 
 branch and github build
 
