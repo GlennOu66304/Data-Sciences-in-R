@@ -63,3 +63,13 @@ Reference Links:
 <br>https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learning/image/Mac%20Sider%20bar%20and%20Tool%20bar.png
 <br>2.Edit the tool bar in finder preference:
 <br>https://github.com/GlennOu66304/Data-Sciences-in-R/blob/R-Learning/image/Sider%20Bar%20edit.png
+
+6.Change the Computer Name Mac Air and Mac Pro
+[Change the login password on Mac](https://support.apple.com/guide/mac-help/change-the-login-password-on-mac-mchlp1550/mac).  
+
+
+7.Synce issue between Mac Book Pro and ios.  
+1).You need to move the synced file into the desktop and documents folder, also you can build a folder in the icloud drive. 
+2).make sure that do not put the unsynced file or folder in the these two locations.  
+3)enble the desktop and documents sysnc.  
+[MAC里的icloud无法同步](https://discussionschinese.apple.com/thread/251713658#:~:text=%E5%9B%9E%E7%AD%94%EF%BC%9A%20%E7%AD%94%EF%BC%9A-,%E5%9B%9E%E7%AD%94%EF%BC%9A%20%E7%AD%94%EF%BC%9A,%E7%84%B6%E5%90%8E%E9%87%8D%E6%96%B0%E7%99%BB%E5%BD%95%E8%AF%95%E8%AF%95%E7%9C%8B%E3%80%82).  
