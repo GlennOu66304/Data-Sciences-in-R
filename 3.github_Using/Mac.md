@@ -1,5 +1,12 @@
 # Mac Using
 
+
+
+## Change the Bogon name:
+[Mac终端下出现bogon的解决办法](https://www.jianshu.com/p/2bf6a87958f5)
+
+[Mac修复hostname被篡改为bogon](https://zhuanlan.zhihu.com/p/55827741)
+
 ## Baiduclound VIP
 [ 百度会员](http://www.baiduhuiyuan.com/?btwaf=89965091)
 [acrobat dc pro](https://www.chenxingyong.com/2021/07/14/acrobat/)  
