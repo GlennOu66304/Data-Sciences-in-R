@@ -197,6 +197,31 @@ git remote -v
 git checkout main
 git merge typescript_start
 ```
+
+> 本文由 [简悦 SimpRead](http://ksria.com/simpread/) 转码， 原文地址 [www.w3schools.com](https://www.w3schools.com/git/git_branch_merge.asp)
+
+> W3Schools offers free online tutorials, references and exercises in all the major languages of the we......
+
+> ave the emergency fix ready,
+> 
+> 备注：  
+> git sub branch
+
+> merge the master and emergency-fix branches
+> 
+> 备注：  
+> Want to merge the changes in the sub-branch into the main(master) branch
+
+> change to the master branch
+> 
+> 备注：  
+> Go to the main branch first
+
+> merge the current branch (master) with emergency-fix:
+> 
+> 备注：  
+> git merge to the sub-branch: original branch merge to latest branch
+
 [3-way merge](https://www.atlassian.com/git/tutorials/using-branches/git-merge)
 
 ### 2.Github desk change:
