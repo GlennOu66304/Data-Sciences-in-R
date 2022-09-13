@@ -1,5 +1,13 @@
 ## 1. Folder and File 
 
+## .env and node_modules stop track
+```
+
+
+git rm .env --cached
+git commit -m "Stopped tracking .env File"
+```
+[git env file ignore](https://github.com/GlennOu66304/ticketsystem-mern)   
 ## Git rename a branch name
 ```
 git branch -m HEAD newbranch
