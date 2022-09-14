@@ -1,6 +1,7 @@
 # Mac Using
 
-
+## Mac Profile user delete
+[Can’t Delete Mac User Account](https://servicemax.com.au/tips/cant-delete-mac-user-account/).  
 
 ## Change the Bogon name:
 [Mac终端下出现bogon的解决办法](https://www.jianshu.com/p/2bf6a87958f5)
