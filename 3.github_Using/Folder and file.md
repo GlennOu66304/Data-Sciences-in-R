@@ -8,13 +8,17 @@ git rm .env --cached
 git commit -m "Stopped tracking .env File"
 ```
 [git env file ignore](https://github.com/GlennOu66304/ticketsystem-mern)   
+
+
 ## Git rename a branch name
 ```
 git branch -m HEAD newbranch
 ```
 [warning: refname 'HEAD' is ambiguous](https://stackoverflow.com/questions/1692892/warning-refname-head-is-ambiguous)
+
+
 ## Git recall merge command
-git reset --hard 
+git reset --hard    
 [Git怎样撤销一次分支的合并Merge](https://segmentfault.com/q/1010000000140446)
 
 [Git merge and git rebase](https://www.perforce.com/blog/vcs/git-rebase-vs-git-merge-which-better)   
@@ -26,7 +30,7 @@ git reset --hard
 [Create-react-app - ERROR in Plugin "react" was conflicted between ".eslintrc.json" and "BaseConfig"](https://stackoverflow.com/questions/70449712/create-react-app-error-in-plugin-react-was-conflicted-between-eslintrc-jso/70451413)
 
 
-branch and github build
+## branch and github build
 
 (Git)new branch
 ```
@@ -58,7 +62,7 @@ git branch -M main
 git push -u origin main
 git branch
 ```
-Remove the origin
+## Remove the origin
 ```
 git remote remove origin
 ```
@@ -77,7 +81,7 @@ git push origin master
 [git 解决push报错：! [rejected] master -> master (fetch first) error: failed to push some refs to ' '](https://blog.csdn.net/ourstronger/article/details/103460249?utm_medium=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7ECTRLIST%7Edefault-1.no_search_link)
 
 
-1.git iniatialize in the project:
+## 1.git iniatialize in the project:
 ```
 git init
 
@@ -92,16 +96,16 @@ then commit it into the final version, it is ready to be placed to the github
 git commit -m "eleme1"   
 ```
 [工作区和暂存区](https://www.liaoxuefeng.com/wiki/896043488029600/897271968352576).  
-2.build the branch:
+## 2.build the branch:
 ```
 git checkout -b eleme1
 ```
-3.connect with github repo
+## 3.connect with github repo
 ```
 git remote add origin git@github.com:GlennOu66304/Eleme.git 
 ```
 [添加远程库](https://www.liaoxuefeng.com/wiki/896043488029600/900003767775424).  
-4.push the branch code to the github
+## 4.push the branch code to the github
 ```
 git checkout eleme1
 git push origin eleme1
@@ -127,7 +131,7 @@ git branch
 [fatal: pathspec 'README.txt' did not match any files](https://stackoverflow.com/questions/47877925/fatal-pathspec-readme-txt-did-not-match-any-files). 
 ## Bug:In GitHub, what do I do with “Your recently pushed branches” messages
 [In GitHub, what do I do with “Your recently pushed branches” messages](https://www.sitepoint.com/community/t/in-github-what-do-i-do-with-your-recently-pushed-branches-messages/306534).   
-### Reference:
+## Reference:
 1.[廖雪峰Git](https://www.liaoxuefeng.com/wiki/896043488029600/900003767775424).   
 2.[deleting branches within your repository](https://docs.github.com/en/github/collaborating-with-pull-requests/proposing-changes-to-your-work-with-pull-requests/creating-and-deleting-branches-within-your-repository).   
 3.[5 steps to change GitHub default branch from master to main](https://stevenmortimer.com/5-steps-to-change-github-default-branch-from-master-to-main/).  
@@ -136,7 +140,7 @@ git branch
 6.[初次使用git上传代码到github远程仓库](https://zhuanlan.zhihu.com/p/138305054).  
 
 
-### 1.Git file name Change:
+## 1.Git file name Change:
 ```
 bogon:~ zt$ cd Data-Sciences-in-R
 bogon:Data-Sciences-in-R zt$ git mv README0.md README.md
