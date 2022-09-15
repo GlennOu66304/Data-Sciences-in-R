@@ -5,6 +5,7 @@
 
 
 git rm .env --cached
+git rm -r node_modules --cached # for node_modules track
 git commit -m "Stopped tracking .env File"
 ```
 [git env file ignore](https://github.com/GlennOu66304/ticketsystem-mern)   
